@@ -1,4 +1,4 @@
-# Artigo para estudo do projeto.
+# Artigo para estudo do Docker com ReactJS em desenvolvimento e produção.
 [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
 
 # Getting Started with Create React App
