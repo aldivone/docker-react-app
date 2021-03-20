@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        <p>Agora estou aprendendo o docker no windows</p>
+        <p>Atualizando automático</p>
       </header>
     </div>
   );
