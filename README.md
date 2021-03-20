@@ -1,4 +1,4 @@
-# artigo do projeto
+# Artigo para estudo do projeto.
 [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
 
 # Getting Started with Create React App
